@@ -4,7 +4,7 @@ import 'package:animate_riverpod/models/meal.dart';
 import 'package:animate_riverpod/screens/meals.dart';
 import 'package:animate_riverpod/widgets/category_grid_item.dart';
 import 'package:flutter/material.dart'; 
-
+//
 class CategoriesScreen extends StatelessWidget {
   const CategoriesScreen({
     super.key,
