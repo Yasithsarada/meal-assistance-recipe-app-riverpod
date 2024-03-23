@@ -3,7 +3,7 @@ import 'package:animate_riverpod/screens/meal_details.dart';
 import 'package:animate_riverpod/widgets/meal_item.dart';
 import 'package:flutter/material.dart';
  
-
+//
 class MealsScreen extends StatelessWidget {
   const MealsScreen({
     super.key,
