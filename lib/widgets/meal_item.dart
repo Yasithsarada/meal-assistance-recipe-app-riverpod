@@ -3,7 +3,7 @@ import 'package:animate_riverpod/widgets/meal_item_trait.dart';
 import 'package:flutter/material.dart';
 import 'package:transparent_image/transparent_image.dart';
  
-
+//
 class MealItem extends StatelessWidget {
   const MealItem({
     super.key,
