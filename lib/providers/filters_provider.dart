@@ -6,7 +6,7 @@ enum Filter {
   glutenFree,
   lactoseFree,
   vegetarian,
-  vegan,
+  vegan,//
 }
 
 class FiltersNotifier extends StateNotifier<Map<Filter, bool>> {
